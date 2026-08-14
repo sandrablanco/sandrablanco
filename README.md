@@ -1,16 +1,40 @@
-## Hi there 👋
+# 💫 Sobre mí:
 
-<!--
-**sandrablanco/sandrablanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Backend focus
 
-Here are some ideas to get you started:
+🚀 Apasionada por el desarrollo web y sobre todo una 🧠curious thinker & 🔍problem solver
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Explorando React, Javascript, Astro(typescript), Node.js, Express, Axios, Python y más
+
+🗄️ PostgreSQL · MongoDB · SQL
+
+📚 Big Data & Data engineering | DP-900 Azure data fundamentals
+
+🌱 Siempre en continuous learning y creando proyectos
+
+### 🧩 Escape Room — Foundational Project
+
+One of my first Full Stack projects and an important milestone in my development journey. It helped me build a strong foundation in frontend, backend, authentication and database integration.
+
+**Tech stack:** React · Node.js · Express · MongoDB · JWT
+
+🔗 [View repository](https://github.com/sandrablanco/front-scape)
+🔗 [View repository](https://github.com/sandrablanco/back-scape)
+
+## 🚀 Featured Projects
+
+### 🚗 CarGo — Car Rental Platform
+
+Full Stack web application for managing car rentals, users and reservations.
+
+**Tech stack:** React · Node.js · Express · MongoDB · JWT · Cloudinary
+🔗 [View repository](https://github.com/sandrablanco/CarGo)
+
+🚧 **Currently in development**
+### 🤖 AI Car Diagnosis SaaS — Currently in Development
+
+An AI-powered SaaS project focused on helping users identify potential car issues through a conversational assistant, receive possible spare-part recommendations and eventually book an appointment with a mechanic.
+
+**Tech stack:** React · Node.js · TypeScript · PostgreSQL · AI APIs
+
+

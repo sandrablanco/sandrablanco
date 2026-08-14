@@ -38,8 +38,8 @@ Full Stack web application for managing car rentals, users and reservations.
 **Tech stack:** React · Node.js · Express · MongoDB · JWT · Cloudinary
 🔗 [View repository](https://github.com/sandrablanco/CarGo)
 
-🚧 **Currently in development**
-### 🤖 AI Car Diagnosis SaaS — Currently in Development
+
+### 🤖 AI Car Diagnosis SaaS — Currently in Development🚧 **Currently in development**
 
 An AI-powered SaaS project focused on helping users identify potential car issues through a conversational assistant, receive possible spare-part recommendations and eventually book an appointment with a mechanic.
 

@@ -21,6 +21,14 @@ One of my first Full Stack projects and an important milestone in my development
 🔗 [View repository](https://github.com/sandrablanco/front-scape)
 🔗 [View repository](https://github.com/sandrablanco/back-scape)
 
+### 💕 BlogLove — Personal Thoughts Blog
+
+A blog built with Astro and TypeScript where users can share their thoughts, reflections and personal experiences. This project helped me explore modern web development and strengthen my TypeScript skills.
+
+**Tech stack:** Astro · TypeScript · MDX
+
+🔗 [View repository](https://github.com/sandrablanco/blogLove)
+
 ## 🚀 Featured Projects
 
 ### 🚗 CarGo — Car Rental Platform
